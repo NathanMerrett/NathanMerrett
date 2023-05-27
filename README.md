@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NathanMerrett
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning Python for Data Science
+- 👀 I’m interested in sustainability, sports, people.
+- 🌱 I’m currently building on data science skills in python while using software engineering approaches.
 - 📫 How to reach me merrettn@gmail.com
 
 <!---
